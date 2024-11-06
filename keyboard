@@ -1,0 +1,6 @@
+# /etc/default/
+XKBLAYOUT="us"
+XKBOPTIONS="caps:escape"
+BACKSPACE="guess"
+XKBMODEL="pc105"
+XKBVARIANT="colemak"
