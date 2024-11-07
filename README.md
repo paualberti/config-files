@@ -1,6 +1,8 @@
 # Keyboard Configuration
 ## Ergonomic keyboard layout with vim in mind
 ![Alt text](yrst-vim.png)
+## Where
+This script only changes the layout from a software perspective. It has been tested in a Linux system and should work in a Mac 'theoretically'
 ## How to use
 ### Setup
 ```
