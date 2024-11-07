@@ -1,6 +1,8 @@
 # Keyboard Configuration
 ## Ergonomic keyboard layout with vim in mind
 ![Alt text](yrst-analysis.png)
+* Caps -> Escape
+* Ralt -> BackSpace
 ## Where
 This script only changes the layout from a software perspective. It has been tested in a Linux machine and should 'theoretically' work in a Mac
 ## How to use
