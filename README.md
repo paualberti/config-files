@@ -4,7 +4,7 @@
 ## How to use
 ### Setup
 ```
-git clone https://github.com/paualberti/.config-files ~/.config-files
+git clone https://github.com/paualberti/yrst-vim ~/yrst-vim
 ```
 #### BackUp existing layout
 ```
