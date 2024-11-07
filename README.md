@@ -17,8 +17,8 @@ mv /etc/default/keyboard /etc/default/keyboard.bak
 ```
 ### Apply new layout
 ```
-sudo cp ~/.config-files/us /usr/share/X11/xkb/symbols/us
-sudo cp ~/.config-files/keyboard /etc/default/keyboard
+sudo cp ~/.config/yrst-vim/us /usr/share/X11/xkb/symbols/us
+sudo cp ~/.config/yrst-vim/keyboard /etc/default/keyboard
 ```
 ### Use the new layout
 It is named colemak so that it can be changed from the system settings
