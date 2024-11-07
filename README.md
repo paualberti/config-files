@@ -2,7 +2,7 @@
 ## Ergonomic keyboard layout with vim in mind
 ![Alt text](yrst-vim.png)
 ## Where
-This script only changes the layout from a software perspective. It has been tested in a Linux system and should work in a Mac 'theoretically'
+This script only changes the layout from a software perspective. It has been tested in a Linux machine and should 'theoretically' work in a Mac
 ## How to use
 ### Setup
 ```
