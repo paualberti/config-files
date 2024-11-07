@@ -141,11 +141,11 @@ xkb_symbols "cat" {
     key <AE11> {[     minus,	underscore, dead_key, dead_key ]};
     key <AE12> {[     equal,	plus, dead_key, dead_key ]};
 
-    key <AD01> {[	  p,	P, dead_key, dead_key ]};
-    key <AD02> {[	  l,	L, 7, ampersand ]};
-    key <AD03> {[	  w,	W, 8, asterisk ]};
-    key <AD04> {[	  m,	M, 9, parenright ]};
-    key <AD05> {[	  g,	G, minus, dead_key ]};
+    key <AD01> {[	  q,	Q, dead_key, dead_key ]};
+    key <AD02> {[	  l,	L, 7, dead_key ]};
+    key <AD03> {[	  w,	W, 8, dead_key ]};
+    key <AD04> {[	  m,	M, 9, dead_key ]};
+    key <AD05> {[	  g,	G, plus, dead_key ]};
     key <AD06> {[	  z,	Z, dead_key, dead_key ]};
     key <AD07> {[	  f,	F, dead_key, dead_key ]};
     key <AD08> {[	  o,	O, dead_key, dead_key ]};
@@ -154,11 +154,11 @@ xkb_symbols "cat" {
     key <AD11> {[ dead_grave,	braceleft, bracketleft, dead_key ]};
     key <AD12> {[ dead_diaeresis, braceright, bracketright, dead_key ]};
 
-    key <AC01> {[	  y,	Y, 0, parenleft ]};
-    key <AC02> {[	  r,	R, 4, dollar ]};
-    key <AC03> {[	  s,	S, 5, percent ]};
-    key <AC04> {[	  t,	T, 6, asciicircum ]};
-    key <AC05> {[	  k,	K, plus, dead_key ]};
+    key <AC01> {[	  y,	Y, 0, dead_key ]};
+    key <AC02> {[	  r,	R, 4, dead_key ]};
+    key <AC03> {[	  s,	S, 5, dead_key ]};
+    key <AC04> {[	  t,	T, 6, dead_key ]};
+    key <AC05> {[	  k,	K, minus, dead_key ]};
     key <AC06> {[	  j,	J, dead_key, dead_key ]};
     key <AC07> {[	  n,	N, dead_key, dead_key ]};
     key <AC08> {[	  a,	A, dead_key, dead_key ]};
@@ -166,10 +166,10 @@ xkb_symbols "cat" {
     key <AC10> {[	  i,	I, dead_key, dead_key ]};
     key <AC11> {[dead_acute, question, slash, dead_key]};
 
-    key <AB01> {[	  q,	Q, dead_key, dead_key ]};
-    key <AB02> {[	  x,	X, 1, exclam ]};
-    key <AB03> {[	  c,	C, 2, at ]};
-    key <AB04> {[	  d,	D, 3, numbersign ]};
+    key <AB01> {[	  p,	P, dead_key, dead_key ]};
+    key <AB02> {[	  x,	X, 1, dead_key ]};
+    key <AB03> {[	  c,	C, 2, dead_key ]};
+    key <AB04> {[	  d,	D, 3, dead_key ]};
     key <AB05> {[	  v,	V, equal, dead_key ]};
     key <AB06> {[	  b,	B, dead_key, dead_key ]};
     key <AB07> {[	  h,	H, dead_key, dead_key ]};
@@ -178,7 +178,7 @@ xkb_symbols "cat" {
     key <AB10> {[    period,	greater, dead_key, dead_key ]};
 
     key <BKSL> {[ backslash,	bar, ccedilla, Ccedilla ]};
-    key <CAPS> {[    escape,    escape, escape, escape ]};
+    key <CAPS> {[    escape,    escape, BackSpace, BackSpace ]};
 
     include "level3(ralt_switch)"
     include "eurosign(5)"
