@@ -6,7 +6,7 @@ This script only changes the layout from a software perspective. It has been tes
 ## How to use
 ### Setup
 ```
-git clone https://github.com/paualberti/yrst-vim ~/yrst-vim
+git clone https://github.com/paualberti/yrst-vim ~/.config/yrst-vim
 ```
 #### BackUp existing layout
 ```
