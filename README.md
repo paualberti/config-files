@@ -1,6 +1,6 @@
 # Keyboard Configuration
 ## Ergonomic keyboard layout with vim in mind
-YRST-vim.png
+![Alt text](yrst-vim.png)
 ## How to use
 ### Setup
 ```
