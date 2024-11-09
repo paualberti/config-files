@@ -17,12 +17,12 @@ q x c d v b h , ; .
 
 ```
 
-[!Important]
-
-Additional remappings of this layout
-
-* Caps -> Escape
-* Ralt -> BackSpace
+> [!Important]
+>
+> Additional remappings of this layout
+>
+> * Caps -> Escape
+> * Ralt -> BackSpace
 
 ## Where
 
