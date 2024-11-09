@@ -2,8 +2,24 @@
 
 ## Ergonomic keyboard layout with vim in mind
 
-This is an analysis from [keysolve](https://clemenpine.github.io/keysolve-web/)
+Customized layout based on [this document](https://docs.google.com/document/d/1Ic-h8UxGe5-Q0bPuYNgE3NoWiI8ekeadvSQ5YysrwII/edit?tab=t.0)
+
+Analysis from [keysolve](https://clemenpine.github.io/keysolve-web/)
+
 ![Keysolve analysis](yrst-analysis.png)
+
+To analyze it yourself use:
+
+```Bash
+p l w m g z f o u '
+y r s t k j n a e i
+q x c d v b h , ; .
+
+```
+
+[!Important]
+
+Additional remappings of this layout
 
 * Caps -> Escape
 * Ralt -> BackSpace
