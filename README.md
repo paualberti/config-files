@@ -2,6 +2,7 @@
 
 ## Ergonomic keyboard layout with vim in mind
 
+This is an analysis from [keysolve](https://clemenpine.github.io/keysolve-web/)
 ![Keysolve analysis](yrst-analysis.png)
 
 * Caps -> Escape
