@@ -2,20 +2,19 @@
 
 ## Ergonomic keyboard layout with vim in mind
 
-Customized layout based on [this document](https://docs.google.com/document/d/1Ic-h8UxGe5-Q0bPuYNgE3NoWiI8ekeadvSQ5YysrwII/edit?tab=t.0)
+Alternative layouts [document](https://docs.google.com/document/d/1Ic-h8UxGe5-Q0bPuYNgE3NoWiI8ekeadvSQ5YysrwII/edit?tab=t.0)
 
 Analysis from [keysolve](https://clemenpine.github.io/keysolve-web/)
 
 ![Keysolve analysis](yrst-analysis.png)
 
-To analyze it yourself use:
+To analyze it yourself this is the layout:
 
-```Bash
-p l w m g z f o u '
-y r s t k j n a e i
-q x c d v b h , ; .
+p l w m g z f o u '<br>
+y r s t k j n a e i<br>
+q x c d v b h , ; .<br>
 
-```
+***
 
 > [!Important]
 >
