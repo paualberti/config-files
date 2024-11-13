@@ -38,8 +38,8 @@ git clone https://github.com/paualberti/yrst-vim ~/.config/yrst-vim
 ### BackUp existing layout
 
 ```Bash
-mv /usr/share/X11/xkb/symbols/us /usr/share/X11/xkb/symbols/us.bak
-mv /etc/default/keyboard /etc/default/keyboard.bak
+sudo mv /usr/share/X11/xkb/symbols/us /usr/share/X11/xkb/symbols/us.bak
+sudo mv /etc/default/keyboard /etc/default/keyboard.bak
 ```
 
 ### Apply new layout
