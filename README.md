@@ -51,8 +51,6 @@ sudo cp ~/.config/yrst-vim/keyboard /etc/default/keyboard
 
 ### Use the new layout
 
-It is named colemak so that it can be changed from the system settings
-
 ```Bash
 setxkbmap -layout us -variant yrst-vim
 ```
