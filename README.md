@@ -103,9 +103,7 @@ xkb_symbols "yrst-vim" {
 Add this to /etc/default/keyboard:
 
 ```C
-XKBLAYOUT=us
 XKBOPTIONS="caps:escape"
-BACKSPACE=guess
 ```
 
 ### Use the new layout
