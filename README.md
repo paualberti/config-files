@@ -56,3 +56,10 @@ It is named colemak so that it can be changed from the system settings
 ```Bash
 setxkbmap -layout us -variant colemak
 ```
+
+### Delete old layout (optional)
+
+```
+sudo rm /usr/share/X11/xkb/symbols/us.bak
+sudo rm /etc/default/keyboard.bak
+```
