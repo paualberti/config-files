@@ -37,7 +37,7 @@ git clone https://github.com/paualberti/yrst-vim ~/.config/yrst-vim
 ```
 
 Maintains normal numbers and symbols, Modifies alpha keys (RALT -> BackSpace)<br>
-Add this to file /usr/share/X11/xkb/symbols/us:
+Add to file `/usr/share/X11/xkb/symbols/us`
 
 ```C
 partial alphanumeric_keys
@@ -100,8 +100,8 @@ xkb_symbols "yrst-vim" {
 };
 ```
 
-(CAPS -> Escape)<br>
-Add this to /etc/default/keyboard:
+Only change (CAPS -> Escape)<br>
+Add to `/etc/default/keyboard`
 
 ```C
 XKBOPTIONS="caps:escape"
