@@ -32,6 +32,7 @@ This script only changes the layout from a software perspective. It has been tes
 ### Install layout
 
 ```Bash
+rm -rf ~/.config/yrst-vim
 git clone https://github.com/paualberti/yrst-vim ~/.config/yrst-vim
 ```
 
