@@ -18,10 +18,8 @@ q x c d v b h , ; .<br>
 
 > [!Important]
 >
-> Additional remappings of this layout
->
-> * Caps -> Escape
-> * Ralt -> BackSpace
+> * RALT becomes BackSpace
+> * CAPS sould be remapped to ESC or CTRL (Suggestion)
 
 ## Where
 
@@ -39,7 +37,7 @@ git clone https://github.com/paualberti/yrst-vim ~/.config/yrst-vim
 Maintains normal numbers and symbols, Modifies alpha keys, RALT -> BackSpace<br>
 Add to file ```/usr/share/X11/xkb/symbols/us```
 
-```C
+```
 partial alphanumeric_keys
 xkb_symbols "yrst-vim" {
 
